@@ -29,6 +29,7 @@ DeepSeek-V3.2.md
 DeepSeek-R1.md
 DeepSeekOCR2.md
 GLM4.x.md
+GLM-4.7-Flash.md
 GLM5.md
 Kimi-K2-Thinking.md
 Kimi-K2.5.md
